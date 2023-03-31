@@ -11,12 +11,15 @@ public class SignInPage extends BaseSetup {
 	public SignInPage() {
 		PageFactory.initElements(getDriver(), this);
 	}
-
-	@FindBy(id = "email")
+	@FindBy(id ="email")
+	public WebElement LoginEmail;
+	@FindBy(id ="password")
+	public WebElement LoginPassword;
+	@FindBy(id = "emailInput")
 	public WebElement emailField;
-	@FindBy(css = "#password")
+	@FindBy(id = "passwordInput")
 	public WebElement passwordField;
-	@FindBy(xpath = "//button[text()='Login']")
+	@FindBy(id = "loginBtn")
 	public WebElement loginButton;
 	@FindBy(id = "signinLink")
 	public WebElement SignInoption;
@@ -26,4 +29,14 @@ public class SignInPage extends BaseSetup {
 	public WebElement TekSchoologgo;
 	@FindBy(xpath = "//a[@id='accountLink']")
 	public WebElement Accontoption;
+	@FindBy(id = "newAccountBtn")
+	public WebElement NewAccount;
+	@FindBy(id = "nameInput")
+	public WebElement Name;
+	@FindBy(id = "confirmPasswordInput")
+	public WebElement ConfirmPassword;
+	@FindBy(id = "signupBtn")
+	public WebElement SingnUpBtn;
+	
+
 }

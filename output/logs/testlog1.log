@@ -36,3 +36,1002 @@
 2023-02-28 13:12:48,479 [main] INFO logger_File - User Enterd Email and password
 2023-02-28 13:12:48,544 [main] INFO logger_File - User Clicked on loggin option
 2023-02-28 13:12:48,545 [main] INFO logger_File - User is loged in into account 
+2023-02-28 19:01:51,010 [main] INFO logger_File - User is Loged i into account
+2023-02-28 19:14:22,787 [main] INFO logger_File - User is Loged i into account
+2023-02-28 22:17:16,263 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 22:22:24,300 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 22:22:24,428 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 22:22:24,429 [main] INFO logger_File - User is loged in into account 
+2023-02-28 22:22:24,998 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 22:26:42,037 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 22:26:42,166 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 22:26:42,167 [main] INFO logger_File - User is loged in into account 
+2023-02-28 22:26:42,698 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 22:26:42,971 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-02-28 22:26:43,097 [main] INFO logger_File - User updated Name and Password successfullly
+2023-02-28 22:26:43,099 [main] INFO logger_File - User should See your Information got updated
+2023-02-28 22:46:11,841 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 22:46:11,910 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 22:46:11,911 [main] INFO logger_File - User is loged in into account 
+2023-02-28 22:46:12,447 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 22:46:12,587 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-02-28 22:46:12,668 [main] INFO logger_File - User updated Name and Password successfullly
+2023-02-28 22:46:12,669 [main] INFO logger_File - User should See your Information got updated
+2023-02-28 23:30:59,440 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 23:30:59,514 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 23:30:59,515 [main] INFO logger_File - User is loged in into account 
+2023-02-28 23:30:59,946 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 23:34:45,937 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 23:34:46,009 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 23:34:46,010 [main] INFO logger_File - User is loged in into account 
+2023-02-28 23:34:46,486 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 23:39:16,771 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 23:39:16,847 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 23:39:16,847 [main] INFO logger_File - User is loged in into account 
+2023-02-28 23:39:17,334 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 23:40:27,330 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 23:40:27,405 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 23:40:27,406 [main] INFO logger_File - User is loged in into account 
+2023-02-28 23:40:27,827 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 23:42:12,069 [main] INFO logger_File - User Enterd Email and password
+2023-02-28 23:42:12,142 [main] INFO logger_File - User Clicked on loggin option
+2023-02-28 23:42:12,143 [main] INFO logger_File - User is loged in into account 
+2023-02-28 23:42:12,638 [main] INFO logger_File - User Clicked on accountoption
+2023-02-28 23:42:13,046 [main] INFO logger_File - User Removed Address
+2023-02-28 23:42:13,047 [main] INFO logger_File - Address should be removed
+2023-03-01 22:40:38,486 [main] INFO logger_File - User Enterd Email and password
+2023-03-01 22:40:38,544 [main] INFO logger_File - User Clicked on loggin option
+2023-03-01 22:40:38,545 [main] INFO logger_File - User is loged in into account 
+2023-03-01 22:41:23,607 [main] INFO logger_File - User Enterd Email and password
+2023-03-01 22:41:23,668 [main] INFO logger_File - User Clicked on loggin option
+2023-03-01 22:41:23,669 [main] INFO logger_File - User is loged in into account 
+2023-03-01 22:41:24,076 [main] INFO logger_File - User Clicked on order select
+2023-03-01 23:02:05,767 [main] INFO logger_File - User Enterd Email and password
+2023-03-01 23:02:05,830 [main] INFO logger_File - User Clicked on loggin option
+2023-03-01 23:02:05,830 [main] INFO logger_File - User is loged in into account 
+2023-03-01 23:24:29,099 [main] INFO logger_File - User Enterd Email and password
+2023-03-01 23:24:29,153 [main] INFO logger_File - User Clicked on loggin option
+2023-03-01 23:24:29,154 [main] INFO logger_File - User is loged in into account 
+2023-03-01 23:24:30,632 [main] INFO logger_File - User Clicked on order select
+2023-03-01 23:24:31,641 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:16:39,558 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:16:39,624 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:16:39,624 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:16:40,199 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:16:40,532 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:21:12,420 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:21:12,480 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:21:12,481 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:21:12,888 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:21:13,579 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:21:58,644 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:21:58,715 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:21:58,716 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:21:59,190 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:21:59,669 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:30:55,663 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:30:55,719 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:30:55,719 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:30:56,169 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:30:56,613 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:32:47,745 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:32:47,798 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:32:47,799 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:32:48,243 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:32:48,751 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:32:48,826 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 00:40:58,226 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:40:58,280 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:40:58,280 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:40:58,681 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:40:59,328 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:40:59,410 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 00:40:59,468 [main] INFO logger_File - User Selecetedd the reson
+2023-03-02 00:42:02,124 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:42:02,179 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:42:02,180 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:42:02,627 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:42:02,963 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:42:03,035 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 00:42:03,094 [main] INFO logger_File - User Selecetedd the reson
+2023-03-02 00:42:29,721 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:42:29,780 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:42:29,780 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:42:30,226 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:42:30,864 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:42:30,945 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 00:42:31,004 [main] INFO logger_File - User Selecetedd the reson
+2023-03-02 00:55:36,155 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:55:36,219 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:55:36,220 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:55:36,688 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:55:37,088 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:55:37,164 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 00:55:53,621 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 00:55:53,676 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 00:55:53,677 [main] INFO logger_File - User is loged in into account 
+2023-03-02 00:55:54,127 [main] INFO logger_File - User Clicked on order select
+2023-03-02 00:55:54,565 [main] INFO logger_File - User Clicked on First order
+2023-03-02 00:55:54,647 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 01:02:45,104 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 01:02:45,170 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 01:02:45,171 [main] INFO logger_File - User is loged in into account 
+2023-03-02 01:02:45,578 [main] INFO logger_File - User Clicked on order select
+2023-03-02 01:02:45,931 [main] INFO logger_File - User Clicked on First order
+2023-03-02 01:02:46,007 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 01:03:52,072 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 01:03:52,127 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 01:03:52,127 [main] INFO logger_File - User is loged in into account 
+2023-03-02 01:03:52,577 [main] INFO logger_File - User Clicked on order select
+2023-03-02 01:03:52,984 [main] INFO logger_File - User Clicked on First order
+2023-03-02 01:03:53,061 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 01:04:50,222 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 01:04:50,279 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 01:04:50,280 [main] INFO logger_File - User is loged in into account 
+2023-03-02 01:04:50,730 [main] INFO logger_File - User Clicked on order select
+2023-03-02 01:04:51,134 [main] INFO logger_File - User Clicked on First order
+2023-03-02 01:04:51,213 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 01:06:46,268 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 01:06:46,330 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 01:06:46,331 [main] INFO logger_File - User is loged in into account 
+2023-03-02 01:06:46,784 [main] INFO logger_File - User Clicked on order select
+2023-03-02 01:06:47,119 [main] INFO logger_File - User Clicked on First order
+2023-03-02 01:06:47,199 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 17:16:47,804 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:16:47,878 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:16:47,879 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:17:59,432 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:17:59,525 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:17:59,526 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:17:59,646 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:17:59,725 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:17:59,725 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:18:00,814 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:18:00,894 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:18:00,895 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:19:37,183 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:19:37,275 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:19:37,276 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:20:04,133 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:20:04,225 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:20:04,226 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:22:44,282 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:22:44,388 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:22:44,389 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:33:34,759 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:33:34,859 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:33:34,860 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:34:33,701 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:34:33,799 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:34:33,800 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:36:22,938 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:36:23,039 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:36:23,041 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:38:34,188 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:38:34,292 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:38:34,293 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:39:47,513 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:39:47,612 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:39:47,613 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:45:03,947 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:45:04,049 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:45:04,049 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:45:04,579 [main] INFO logger_File - User Clicked on accountoption
+2023-03-02 17:45:04,786 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-03-02 17:45:04,912 [main] INFO logger_File - User updated Name and Password successfullly
+2023-03-02 17:45:04,912 [main] INFO logger_File - User should See your Information got updated
+2023-03-02 17:45:08,145 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:45:08,240 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:45:08,241 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:45:08,752 [main] INFO logger_File - User Clicked on accountoption
+2023-03-02 17:45:09,162 [main] INFO logger_File - User Removed Address
+2023-03-02 17:45:09,164 [main] INFO logger_File - Address should be removed
+2023-03-02 17:45:12,327 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:45:12,410 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:45:12,411 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:45:13,355 [main] INFO logger_File - User Clicked on order select
+2023-03-02 17:45:13,812 [main] INFO logger_File - User Clicked on First order
+2023-03-02 17:45:13,968 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-02 17:47:27,358 [main] INFO logger_File - User Enterd Email and password
+2023-03-02 17:47:27,458 [main] INFO logger_File - User Clicked on loggin option
+2023-03-02 17:47:27,459 [main] INFO logger_File - User is loged in into account 
+2023-03-02 17:47:28,081 [main] INFO logger_File - User Clicked on order select
+2023-03-02 17:47:28,670 [main] INFO logger_File - User Clicked on First order
+2023-03-02 17:47:28,845 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-03 22:54:43,319 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 22:55:00,004 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:21:22,528 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:22:32,879 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:23:57,926 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:25:12,599 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:26:07,291 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:27:47,545 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:28:29,668 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:29:28,631 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-03 23:29:29,119 [main] INFO logger_File - User Insert The Values
+2023-03-03 23:29:29,213 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-03 23:29:29,214 [main] INFO logger_File - UserShouldbeLoggedIn
+2023-03-06 11:01:07,232 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-06 11:01:07,602 [main] INFO logger_File - User Insert The Values
+2023-03-06 11:01:07,678 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-06 11:01:07,679 [main] INFO logger_File - UserShouldbeLoggedIn
+2023-03-06 11:01:26,090 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-06 11:01:26,454 [main] INFO logger_File - User Insert The Values
+2023-03-06 11:01:26,527 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-06 11:01:26,528 [main] INFO logger_File - UserShouldbeLoggedIn
+2023-03-29 02:08:37,528 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 02:08:37,649 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 02:08:37,650 [main] INFO logger_File - User is loged in into account 
+2023-03-29 02:09:08,647 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 02:09:08,746 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 02:09:08,747 [main] INFO logger_File - User is loged in into account 
+2023-03-29 02:09:09,296 [main] INFO logger_File - User Clicked on order select
+2023-03-29 02:11:34,833 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 02:11:34,936 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 02:11:34,937 [main] INFO logger_File - User is loged in into account 
+2023-03-29 02:11:35,571 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:18:12,749 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:18:12,858 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:18:12,859 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:18:13,382 [main] INFO logger_File - User Clicked on order select
+2023-03-29 03:21:47,217 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:21:47,333 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:21:47,335 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:21:47,857 [main] INFO logger_File - User Clicked on order select
+2023-03-29 03:24:54,502 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:24:54,613 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:24:54,614 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:24:55,103 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:24:55,580 [main] INFO logger_File - User Clicked on Remove Btn
+2023-03-29 03:24:55,582 [main] INFO logger_File - Payment has been deleted
+2023-03-29 03:26:30,001 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:26:30,108 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:26:30,108 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:26:30,603 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:26:30,884 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-03-29 03:26:31,006 [main] INFO logger_File - User updated Name and Password successfullly
+2023-03-29 03:26:31,009 [main] INFO logger_File - User should See your Information got updated
+2023-03-29 03:27:47,096 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:27:47,208 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:27:47,209 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:27:47,729 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:28:25,254 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:28:25,362 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:28:25,364 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:28:25,911 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:29:27,965 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:29:28,084 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:29:28,085 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:29:28,580 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:32:48,225 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:32:48,330 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:32:48,332 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:32:48,825 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:34:14,107 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:34:14,217 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:34:14,218 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:34:14,793 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:34:14,980 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 03:37:12,564 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:37:12,659 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:37:12,660 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:37:13,652 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:37:13,855 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 03:38:34,482 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:38:34,590 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:38:34,591 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:38:35,101 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:38:35,618 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 03:39:12,480 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:39:12,593 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:39:12,594 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:39:13,105 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:39:13,544 [main] INFO logger_File - User Clicked on Remove Option Of the address
+2023-03-29 03:41:18,000 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 03:41:18,102 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 03:41:18,104 [main] INFO logger_File - User is loged in into account 
+2023-03-29 03:41:18,612 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 03:41:19,100 [main] INFO logger_File - User Clicked on Remove Option Of the address
+2023-03-29 03:41:19,101 [main] INFO logger_File - the address datail is removed
+2023-03-29 15:42:23,980 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:42:24,094 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:42:24,095 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:42:24,586 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:42:24,745 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 15:45:51,576 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:45:51,693 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:45:51,694 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:45:52,257 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:45:52,447 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 15:47:59,407 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:47:59,516 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:47:59,518 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:48:00,008 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:48:00,163 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 15:48:00,673 [main] INFO logger_File - User interd all information
+2023-03-29 15:48:00,786 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-29 15:48:15,378 [main] INFO logger_File - A Massege Should Be displayed
+2023-03-29 15:49:46,232 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:49:46,343 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:49:46,344 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:49:46,863 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:49:47,022 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-29 15:49:47,532 [main] INFO logger_File - User interd all information
+2023-03-29 15:49:47,645 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-29 15:49:48,420 [main] INFO logger_File - A Massege Should Be displayed
+2023-03-29 15:52:13,102 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:52:13,209 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:52:13,210 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:52:51,093 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:52:51,203 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:52:51,206 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:52:51,697 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:54:14,641 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:54:14,749 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:54:14,750 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:54:15,391 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:56:59,481 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:56:59,599 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:56:59,600 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:57:00,111 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:57:00,527 [main] INFO logger_File - User interd all the Value
+2023-03-29 15:57:00,631 [main] INFO logger_File - User Changed the password successfuly
+2023-03-29 15:58:36,383 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:58:36,487 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:58:36,488 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:59:36,842 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 15:59:36,953 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 15:59:36,954 [main] INFO logger_File - User is loged in into account 
+2023-03-29 15:59:37,465 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 15:59:37,909 [main] INFO logger_File - User interd all the Value
+2023-03-29 15:59:38,009 [main] INFO logger_File - User Changed the password successfuly
+2023-03-29 16:02:20,515 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:02:20,624 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:02:20,625 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:02:21,133 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:02:21,533 [main] INFO logger_File - User interd all the Value
+2023-03-29 16:02:21,629 [main] INFO logger_File - User Changed the password successfuly
+2023-03-29 16:02:22,702 [main] INFO logger_File - success
+2023-03-29 16:03:12,020 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:03:12,129 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:03:12,130 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:03:41,490 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:03:41,596 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:03:41,598 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:03:42,106 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:03:42,330 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-03-29 16:03:42,436 [main] INFO logger_File - User updated Name and Password successfullly
+2023-03-29 16:03:42,437 [main] INFO logger_File - User should See your Information got updated
+2023-03-29 16:05:00,698 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:05:00,807 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:05:00,809 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:05:01,306 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:05:01,787 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:06:39,931 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:06:40,036 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:06:40,038 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:06:40,560 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:06:41,080 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:06:41,573 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:09:35,915 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:09:36,028 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:09:36,029 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:09:36,544 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:09:37,046 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:09:37,689 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:18:18,969 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:18:19,119 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:18:19,121 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:18:19,733 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:19:22,343 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:19:22,489 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:19:22,490 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:19:23,125 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:22:41,913 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:22:42,062 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:22:42,064 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:22:42,658 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:25:20,950 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:25:21,079 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:25:21,080 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:25:21,627 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:25:28,446 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:25:29,381 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:34:36,946 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:34:37,078 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:34:37,079 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:34:37,708 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:34:38,127 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:34:38,940 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:35:10,110 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:35:10,253 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:35:10,255 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:35:10,879 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:35:11,349 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:35:18,104 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:40:08,901 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:40:09,044 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:40:09,046 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:40:09,708 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:40:10,294 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-29 16:40:11,177 [main] INFO logger_File - User Edited All the information
+2023-03-29 16:41:31,853 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:41:31,991 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:41:31,993 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:41:32,682 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:41:32,906 [main] INFO logger_File - User Clicked on Remove Btn
+2023-03-29 16:41:32,908 [main] INFO logger_File - Payment has been deleted
+2023-03-29 16:50:47,066 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:50:47,219 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:50:47,220 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:50:47,844 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:53:24,827 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:53:24,958 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:53:24,958 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:53:25,581 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:53:25,782 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 16:56:44,745 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 16:56:44,905 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 16:56:44,906 [main] INFO logger_File - User is loged in into account 
+2023-03-29 16:56:45,573 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 16:56:45,820 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 17:01:06,023 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:01:06,181 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:01:06,183 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:01:06,902 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:01:07,130 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 17:02:09,021 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:02:09,163 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:02:09,164 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:02:09,774 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:02:09,930 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 17:03:26,979 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:03:27,113 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:03:27,116 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:03:27,748 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:03:27,978 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 17:03:29,106 [main] INFO logger_File - User interd all  the information
+2023-03-29 17:03:29,223 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-29 17:03:59,450 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:03:59,581 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:03:59,583 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:04:00,261 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:04:00,469 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-29 17:04:01,617 [main] INFO logger_File - User interd all  the information
+2023-03-29 17:04:01,764 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-29 17:04:02,611 [main] INFO logger_File - A massege should be displayed
+2023-03-29 17:17:45,641 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:17:45,799 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:17:45,800 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:17:46,464 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:19:37,241 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:19:37,395 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:19:37,397 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:19:38,023 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:19:38,321 [main] INFO logger_File - User Clicked on Edit Address
+2023-03-29 17:19:40,211 [main] INFO logger_File - User Clicked on Add to Your Address Btn
+2023-03-29 17:20:23,691 [main] INFO logger_File - User Enterd Email and password
+2023-03-29 17:20:23,830 [main] INFO logger_File - User Clicked on loggin option
+2023-03-29 17:20:23,832 [main] INFO logger_File - User is loged in into account 
+2023-03-29 17:20:24,486 [main] INFO logger_File - User Clicked on accountoption
+2023-03-29 17:20:24,819 [main] INFO logger_File - User Clicked on Edit Address
+2023-03-29 17:20:26,639 [main] INFO logger_File - User Clicked on Add to Your Address Btn
+2023-03-29 17:20:27,512 [main] INFO logger_File - Message displayed
+2023-03-30 01:04:02,708 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-30 01:09:42,242 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-30 01:09:42,535 [main] INFO logger_File - User Insert The Values
+2023-03-30 01:09:42,591 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-30 01:09:42,592 [main] INFO logger_File - UserShouldbeLoggedIn
+2023-03-30 01:16:00,620 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:16:00,685 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:16:00,686 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:17:33,989 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:17:34,053 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:17:34,053 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:18:43,819 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:18:43,882 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:18:43,883 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:19:50,654 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:19:50,714 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:19:50,714 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:22:07,563 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:22:07,625 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:22:07,625 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:22:08,397 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:27:47,842 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:27:47,906 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:27:47,906 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:27:48,374 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:28:01,653 [main] INFO logger_File - User Clicked on First order
+2023-03-30 01:28:36,537 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-30 01:31:29,936 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:31:29,998 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:31:29,998 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:31:30,455 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:32:59,668 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:32:59,728 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:32:59,728 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:33:00,189 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:37:38,281 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:37:38,351 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:37:38,352 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:37:38,822 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:37:49,995 [main] INFO logger_File - User Clicked on First order
+2023-03-30 01:38:09,016 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:38:09,087 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:38:09,088 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:38:09,566 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:38:09,995 [main] INFO logger_File - User Clicked on First order
+2023-03-30 01:45:53,211 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:45:53,276 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:45:53,277 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:45:54,004 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:45:54,454 [main] INFO logger_File - User Clicked on First order
+2023-03-30 01:48:27,000 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 01:48:27,066 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 01:48:27,066 [main] INFO logger_File - User is loged in into account 
+2023-03-30 01:48:27,486 [main] INFO logger_File - User Clicked on order select
+2023-03-30 01:48:28,075 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:01:45,455 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:01:45,524 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:01:45,525 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:01:45,963 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:01:46,409 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:07:02,279 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:07:02,341 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:07:02,341 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:07:02,804 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:07:03,316 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:07:03,403 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-30 02:07:03,534 [main] INFO logger_File - User Selecetedd the reson
+2023-03-30 02:07:03,615 [main] INFO logger_File - User Clicked on Chancle order button
+2023-03-30 02:07:03,615 [main] INFO logger_File - A massage should be displayed your order chancled
+2023-03-30 02:07:56,024 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:07:56,088 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:07:56,089 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:07:56,514 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:07:57,165 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:07:57,252 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-30 02:07:57,386 [main] INFO logger_File - User Selecetedd the reson
+2023-03-30 02:07:57,470 [main] INFO logger_File - User Clicked on Chancle order button
+2023-03-30 02:07:57,470 [main] INFO logger_File - A massage should be displayed your order chancled
+2023-03-30 02:09:09,960 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:09:10,026 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:09:10,027 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:09:10,433 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:09:10,892 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:11:47,619 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:11:47,681 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:11:47,682 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:11:48,165 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:11:48,504 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:11:48,643 [main] INFO logger_File - User Selected The reson 
+2023-03-30 02:14:07,197 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:14:07,258 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:14:07,258 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:14:07,712 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:14:08,170 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:14:08,320 [main] INFO logger_File - User Selected The reson 
+2023-03-30 02:14:08,372 [main] INFO logger_File - User Selectted the drop off servise
+2023-03-30 02:14:08,422 [main] INFO logger_File - User Clicked on Return Order Btn
+2023-03-30 02:14:08,423 [main] INFO logger_File - 
+2023-03-30 02:14:54,598 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:14:54,664 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:14:54,665 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:14:55,140 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:14:55,539 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:14:55,692 [main] INFO logger_File - User Selected The reson 
+2023-03-30 02:14:55,747 [main] INFO logger_File - User Selectted the drop off servise
+2023-03-30 02:14:55,799 [main] INFO logger_File - User Clicked on Return Order Btn
+2023-03-30 02:14:55,800 [main] INFO logger_File - 
+2023-03-30 02:17:31,333 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:17:31,397 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:17:31,397 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:17:32,194 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:17:32,672 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:17:32,745 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 02:20:04,609 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:20:04,670 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:20:04,672 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:20:05,138 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:20:05,540 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:20:05,629 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 02:22:29,650 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:22:29,713 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:22:29,714 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:22:30,137 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:22:30,712 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:22:30,795 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 02:26:58,272 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 02:26:58,339 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 02:26:58,340 [main] INFO logger_File - User is loged in into account 
+2023-03-30 02:26:58,763 [main] INFO logger_File - User Clicked on order select
+2023-03-30 02:26:59,224 [main] INFO logger_File - User Clicked on First order
+2023-03-30 02:26:59,302 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 03:31:33,895 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 03:31:33,959 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 03:31:33,959 [main] INFO logger_File - User is loged in into account 
+2023-03-30 03:31:34,381 [main] INFO logger_File - User Clicked on order select
+2023-03-30 03:31:34,785 [main] INFO logger_File - User Clicked on First order
+2023-03-30 03:31:34,863 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 03:33:43,698 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 03:33:43,767 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 03:33:43,768 [main] INFO logger_File - User is loged in into account 
+2023-03-30 03:33:44,228 [main] INFO logger_File - User Clicked on order select
+2023-03-30 03:33:44,570 [main] INFO logger_File - User Clicked on First order
+2023-03-30 03:33:44,643 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 05:47:24,667 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 05:47:24,732 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 05:47:24,733 [main] INFO logger_File - User is loged in into account 
+2023-03-30 05:47:25,204 [main] INFO logger_File - User Clicked on order select
+2023-03-30 05:47:25,606 [main] INFO logger_File - User Clicked on First order
+2023-03-30 05:47:25,679 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 05:49:22,115 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 05:49:22,179 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 05:49:22,179 [main] INFO logger_File - User is loged in into account 
+2023-03-30 05:49:22,643 [main] INFO logger_File - User Clicked on order select
+2023-03-30 05:49:23,051 [main] INFO logger_File - User Clicked on First order
+2023-03-30 05:49:23,129 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:12:09,524 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:12:09,639 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:12:09,641 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:12:10,365 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:12:10,912 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:12:11,062 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:12:45,780 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:12:45,886 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:12:45,887 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:12:46,413 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:12:47,039 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:12:47,183 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:16:23,127 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:16:23,236 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:16:23,237 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:16:23,774 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:16:24,450 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:16:24,592 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:22:25,598 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:22:25,719 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:22:25,720 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:22:26,281 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:22:26,730 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:22:26,897 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:26:33,765 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:26:33,871 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:26:33,873 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:26:34,402 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:26:34,863 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:26:35,028 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:28:45,087 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:28:45,193 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:28:45,195 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:28:45,710 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:28:46,188 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:28:46,338 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:29:46,270 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:29:46,375 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:29:46,377 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:29:46,928 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:29:47,765 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:29:47,913 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 15:59:06,014 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 15:59:06,125 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 15:59:06,127 [main] INFO logger_File - User is loged in into account 
+2023-03-30 15:59:06,677 [main] INFO logger_File - User Clicked on order select
+2023-03-30 15:59:07,081 [main] INFO logger_File - User Clicked on First order
+2023-03-30 15:59:07,243 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 16:01:46,410 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:01:46,529 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:01:46,530 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:01:47,050 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:01:47,511 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:01:47,679 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 16:01:48,050 [main] INFO logger_File - User Write Headlines
+2023-03-30 16:01:48,186 [main] INFO logger_File - A Review message Displayed
+2023-03-30 16:02:26,775 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:02:26,893 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:02:26,894 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:02:27,429 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:02:27,912 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:02:28,072 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 16:02:28,446 [main] INFO logger_File - User Write Headlines
+2023-03-30 16:02:28,588 [main] INFO logger_File - A Review message Displayed
+2023-03-30 16:04:18,727 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:04:18,828 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:04:18,829 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:04:19,359 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:04:19,826 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:04:20,000 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-30 16:04:20,278 [main] INFO logger_File - User Selecetedd the reson
+2023-03-30 16:04:20,423 [main] INFO logger_File - User Clicked on Chancle order button
+2023-03-30 16:04:20,423 [main] INFO logger_File - A massage should be displayed your order chancled
+2023-03-30 16:04:50,155 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:04:50,262 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:04:50,264 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:04:50,815 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:04:51,477 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:04:51,767 [main] INFO logger_File - User Selected The reson 
+2023-03-30 16:04:51,867 [main] INFO logger_File - User Selectted the drop off servise
+2023-03-30 16:04:52,007 [main] INFO logger_File - User Clicked on Return Order Btn
+2023-03-30 16:04:52,009 [main] INFO logger_File - 
+2023-03-30 16:05:17,002 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:05:17,102 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:05:17,103 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:05:17,649 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:05:18,071 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:05:18,232 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 16:05:18,592 [main] INFO logger_File - User Write Headlines
+2023-03-30 16:05:18,715 [main] INFO logger_File - A Review message Displayed
+2023-03-30 16:06:29,203 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:06:29,304 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:06:29,306 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:06:29,906 [main] INFO logger_File - User Clicked on order select
+2023-03-30 16:06:30,383 [main] INFO logger_File - User Clicked on First order
+2023-03-30 16:06:30,532 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-30 16:06:30,895 [main] INFO logger_File - User Write Headlines
+2023-03-30 16:06:31,021 [main] INFO logger_File - A Review message Displayed
+2023-03-30 16:10:12,514 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:10:12,609 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:10:12,610 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:10:13,154 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:10:13,523 [main] INFO logger_File - User Clicked on Remove Option Of the address
+2023-03-30 16:10:13,524 [main] INFO logger_File - the address datail is removed
+2023-03-30 16:11:12,628 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:11:12,746 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:11:12,747 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:11:13,260 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:11:13,966 [main] INFO logger_File - User Clicked on Edit Address
+2023-03-30 16:11:15,318 [main] INFO logger_File - User Clicked on Add to Your Address Btn
+2023-03-30 16:11:16,150 [main] INFO logger_File - Message displayed
+2023-03-30 16:12:16,176 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:12:16,303 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:12:16,304 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:12:16,824 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:12:16,995 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-30 16:12:18,020 [main] INFO logger_File - User interd all  the information
+2023-03-30 16:12:18,138 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-30 16:12:18,927 [main] INFO logger_File - A massege should be displayed
+2023-03-30 16:12:52,347 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:12:52,450 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:12:52,451 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:12:52,945 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:12:53,432 [main] INFO logger_File - User Clicked on Remove Btn
+2023-03-30 16:12:53,435 [main] INFO logger_File - Payment has been deleted
+2023-03-30 16:13:26,999 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:13:27,106 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:13:27,107 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:13:27,591 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:13:28,089 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-30 16:13:28,687 [main] INFO logger_File - User Edited All the information
+2023-03-30 16:14:06,916 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:14:07,021 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:14:07,022 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:14:07,558 [main] INFO logger_File - User Clicked on accountoption
+2023-03-30 16:14:07,782 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-30 16:14:08,378 [main] INFO logger_File - User interd all information
+2023-03-30 16:14:08,488 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-30 16:14:09,320 [main] INFO logger_File - A Massege Should Be displayed
+2023-03-30 16:15:11,867 [main] INFO logger_File - User Enterd Email and password
+2023-03-30 16:15:11,974 [main] INFO logger_File - User Clicked on loggin option
+2023-03-30 16:15:11,976 [main] INFO logger_File - User is loged in into account 
+2023-03-30 16:15:37,530 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-30 16:15:38,069 [main] INFO logger_File - User Insert The Values
+2023-03-30 16:15:38,199 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-30 16:15:38,202 [main] INFO logger_File - UserShouldbeLoggedIn
+2023-03-31 04:04:57,255 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:04:57,440 [main] INFO logger_File - THe Items is present
+2023-03-31 04:04:57,495 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:00,320 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:05:00,538 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:00,585 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:03,282 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:05:03,513 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:03,564 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:06,271 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:05:06,519 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:06,572 [main] INFO logger_File - THe Items is present
+2023-03-31 04:05:10,721 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:14:23,601 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:14:23,688 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:14:23,688 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:14:24,191 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:14:24,967 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-31 04:14:25,566 [main] INFO logger_File - User Edited All the information
+2023-03-31 04:16:51,842 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:16:51,936 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:16:51,937 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:16:52,460 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:17:38,677 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:17:38,771 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:17:38,772 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:17:39,261 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:18:23,060 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:18:23,155 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:18:23,156 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:18:23,706 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:19:38,424 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:19:38,527 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:19:38,529 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:19:39,065 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:20:29,057 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:20:29,155 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:20:29,156 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:20:29,662 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:20:29,956 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-03-31 04:20:30,066 [main] INFO logger_File - User updated Name and Password successfullly
+2023-03-31 04:20:30,066 [main] INFO logger_File - User should See your Information got updated
+2023-03-31 04:21:15,952 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:21:16,058 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:21:16,059 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:21:16,585 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:21:16,881 [main] INFO logger_File - Namefieled and PhoneNumber got updated
+2023-03-31 04:21:17,002 [main] INFO logger_File - User updated Name and Password successfullly
+2023-03-31 04:21:17,002 [main] INFO logger_File - User should See your Information got updated
+2023-03-31 04:22:03,848 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:22:03,955 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:22:03,956 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:22:04,437 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:22:04,872 [main] INFO logger_File - User interd all the Value
+2023-03-31 04:22:04,989 [main] INFO logger_File - User Changed the password successfuly
+2023-03-31 04:22:05,965 [main] INFO logger_File - success
+2023-03-31 04:23:38,924 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:23:39,020 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:23:39,020 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:25:52,517 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:25:52,628 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:25:52,629 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:25:53,458 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:25:53,649 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-31 04:25:54,227 [main] INFO logger_File - User interd all information
+2023-03-31 04:25:54,354 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-31 04:26:22,522 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:26:22,644 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:26:22,645 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:26:23,519 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:26:23,727 [main] INFO logger_File - User Clicked on Add a payment Option
+2023-03-31 04:26:24,332 [main] INFO logger_File - User interd all information
+2023-03-31 04:26:24,459 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-31 04:26:25,232 [main] INFO logger_File - A Massege Should Be displayed
+2023-03-31 04:27:11,013 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:27:11,115 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:27:11,116 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:27:12,134 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:27:12,671 [main] INFO logger_File - User Clicked on EditOpton
+2023-03-31 04:27:13,365 [main] INFO logger_File - User Edited All the information
+2023-03-31 04:27:37,580 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:27:37,676 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:27:37,677 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:27:38,230 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:27:38,583 [main] INFO logger_File - User Clicked on Remove Btn
+2023-03-31 04:27:38,584 [main] INFO logger_File - Payment has been deleted
+2023-03-31 04:28:09,585 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:28:09,698 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:28:09,698 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:28:10,252 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:28:10,404 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-31 04:28:11,431 [main] INFO logger_File - User interd all  the information
+2023-03-31 04:28:11,525 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-31 04:28:46,497 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:28:46,609 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:28:46,610 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:28:47,214 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:28:47,378 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-31 04:28:48,386 [main] INFO logger_File - User interd all  the information
+2023-03-31 04:28:48,515 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-31 04:29:32,754 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:29:32,858 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:29:32,858 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:29:33,368 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:29:33,553 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-31 04:29:34,459 [main] INFO logger_File - User interd all  the information
+2023-03-31 04:29:34,560 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-31 04:31:57,251 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:31:57,353 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:31:57,354 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:31:57,938 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:31:58,108 [main] INFO logger_File - User Clicked on Add Account Option
+2023-03-31 04:31:59,056 [main] INFO logger_File - User interd all  the information
+2023-03-31 04:31:59,158 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-31 04:31:59,917 [main] INFO logger_File - A massege should be displayed
+2023-03-31 04:32:31,624 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:32:31,740 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:32:31,740 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:32:32,269 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:32:32,771 [main] INFO logger_File - User Clicked on Edit Address
+2023-03-31 04:32:34,115 [main] INFO logger_File - User Clicked on Add to Your Address Btn
+2023-03-31 04:32:34,942 [main] INFO logger_File - Message displayed
+2023-03-31 04:32:58,970 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:32:59,055 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:32:59,056 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:32:59,541 [main] INFO logger_File - User Clicked on accountoption
+2023-03-31 04:33:00,010 [main] INFO logger_File - User Clicked on Remove Option Of the address
+2023-03-31 04:33:00,011 [main] INFO logger_File - the address datail is removed
+2023-03-31 04:38:24,461 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:38:24,577 [main] INFO logger_File - options Electronics, Computers, Smart Home, Sports and Automative are present
+2023-03-31 04:39:40,747 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:39:40,891 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:40,951 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:45,277 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:39:45,476 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:45,534 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:48,285 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:39:48,539 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:48,585 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:51,248 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:39:51,477 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:51,531 [main] INFO logger_File - THe Items is present
+2023-03-31 04:39:55,675 [main] INFO logger_File - User clicked on all icon button
+2023-03-31 04:42:30,710 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:42:30,823 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:42:30,824 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:42:31,282 [main] INFO logger_File - user choosed the smart home
+2023-03-31 04:42:31,429 [main] INFO logger_File - user search the item and click on search Button
+2023-03-31 04:42:31,529 [main] INFO logger_File - User clicked on Search icon
+2023-03-31 04:42:32,047 [main] INFO logger_File - user clicked on item
+2023-03-31 04:42:32,327 [main] INFO logger_File - User select Quantity 2
+2023-03-31 04:42:32,414 [main] INFO logger_File - User clicked add to Cart button
+2023-03-31 04:44:18,820 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:44:18,926 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:44:18,927 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:44:19,385 [main] INFO logger_File - user choosed the smart home
+2023-03-31 04:44:19,534 [main] INFO logger_File - user search the item and click on search Button
+2023-03-31 04:44:19,639 [main] INFO logger_File - User clicked on Search icon
+2023-03-31 04:44:20,066 [main] INFO logger_File - user clicked on item
+2023-03-31 04:44:20,364 [main] INFO logger_File - User select Quantity 2
+2023-03-31 04:44:20,464 [main] INFO logger_File - User clicked add to Cart button
+2023-03-31 04:44:20,571 [main] INFO logger_File - User clicked on Cart option
+2023-03-31 04:44:21,238 [main] INFO logger_File - User clicked on Proceed to Checkout button
+2023-03-31 04:44:21,359 [main] INFO logger_File - User clicked Add a new address link for shipping address
+2023-03-31 04:44:22,289 [main] INFO logger_File - User interd all  the information
+2023-03-31 04:44:22,400 [main] INFO logger_File - User Clicked On add to Your Adress Btn
+2023-03-31 04:44:23,579 [main] INFO logger_File - User interd all information
+2023-03-31 04:44:23,724 [main] INFO logger_File - User Clicked on Add Your card
+2023-03-31 04:44:23,952 [main] INFO logger_File - User clicked on Place Your Order
+2023-03-31 04:46:03,770 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:46:03,879 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:46:03,880 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:46:04,379 [main] INFO logger_File - user choosed the smart home
+2023-03-31 04:46:04,521 [main] INFO logger_File - user search the item and click on search Button
+2023-03-31 04:46:04,616 [main] INFO logger_File - User clicked on Search icon
+2023-03-31 04:46:04,942 [main] INFO logger_File - click on item
+2023-03-31 04:46:06,761 [main] INFO logger_File - User select Quantity 2
+2023-03-31 04:46:06,855 [main] INFO logger_File - User clicked add to Cart button
+2023-03-31 04:46:06,981 [main] INFO logger_File - User clicked on Cart option
+2023-03-31 04:46:07,150 [main] INFO logger_File - User clicked on Proceed to Checkout button
+2023-03-31 04:46:07,255 [main] INFO logger_File - User clicked on Place Your Order
+2023-03-31 04:49:22,864 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:49:22,969 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:49:22,970 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:50:24,885 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:50:24,992 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:50:24,994 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:50:25,568 [main] INFO logger_File - User Clicked on order select
+2023-03-31 04:50:25,901 [main] INFO logger_File - User Clicked on First order
+2023-03-31 04:50:26,056 [main] INFO logger_File - User Clicked on chancle Button
+2023-03-31 04:50:26,347 [main] INFO logger_File - User Selecetedd the reson
+2023-03-31 04:50:26,489 [main] INFO logger_File - User Clicked on Chancle order button
+2023-03-31 04:50:26,490 [main] INFO logger_File - A massage should be displayed your order chancled
+2023-03-31 04:50:57,627 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:50:57,713 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:50:57,714 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:50:58,294 [main] INFO logger_File - User Clicked on order select
+2023-03-31 04:50:58,942 [main] INFO logger_File - User Clicked on First order
+2023-03-31 04:50:59,207 [main] INFO logger_File - User Selected The reson 
+2023-03-31 04:50:59,304 [main] INFO logger_File - User Selectted the drop off servise
+2023-03-31 04:50:59,437 [main] INFO logger_File - User Clicked on Return Order Btn
+2023-03-31 04:50:59,439 [main] INFO logger_File - 
+2023-03-31 04:51:33,684 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:51:33,789 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:51:33,790 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:51:35,581 [main] INFO logger_File - User Clicked on order select
+2023-03-31 04:51:36,073 [main] INFO logger_File - User Clicked on First order
+2023-03-31 04:51:36,275 [main] INFO logger_File - User Clicked on ReviewBtn
+2023-03-31 04:51:36,709 [main] INFO logger_File - User Write Headlines
+2023-03-31 04:51:36,861 [main] INFO logger_File - A Review message Displayed
+2023-03-31 04:52:33,121 [main] INFO logger_File - User Enterd Email and password
+2023-03-31 04:52:33,219 [main] INFO logger_File - User Clicked on loggin option
+2023-03-31 04:52:33,220 [main] INFO logger_File - User is loged in into account 
+2023-03-31 04:54:29,852 [main] INFO logger_File - User Clicked On new account Optioon
+2023-03-31 04:54:30,380 [main] INFO logger_File - User Insert The Values
+2023-03-31 04:54:30,496 [main] INFO logger_File - User Clicked On SignUp button
+2023-03-31 04:54:30,498 [main] INFO logger_File - UserShouldbeLoggedIn
