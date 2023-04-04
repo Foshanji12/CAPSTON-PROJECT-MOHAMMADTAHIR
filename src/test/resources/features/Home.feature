@@ -1,4 +1,5 @@
 Feature: Retail Page application
+
   #(1)
   @ShopFromSideBar
   Scenario: Verify Shop by Department sidebar
